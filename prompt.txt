@@ -1,0 +1,56 @@
+Prompt given to gen AI:
+
+Problem Statement: Write a 2d graphics editor in C using * and  _.
+
+Write functions to draw a circle, rectangle, line, and triangle.
+You should be able to
+      add objects to the picture,
+      delete objects from the picture, and
+       modify objects in the picture.
+Use a 2d array of characters to store the picture.
+Write a function to display the picture.
+
+---------------------------------------------------------------------
+The interaction and response from the AI:
+
+I have created the implementation plan for the 2D graphics editor in C.
+
+Please review the plan in 
+implementation_plan.md
+. Once you approve, I will proceed with creating the files and building the application.
+
+Also, please set the directory C:\Users\punya\.gemini\antigravity\scratch\c_graphics_editor as your active workspace when running/interacting with the project.
+
+Please let me know if the plan looks good or if you have any modifications you'd like to make!
+
+Implementation Plan
+4:28 PM, 6/7/2026
+
+give the code 
+4:29 PM, 6/7/2026
+
+I have successfully implemented the 2D graphics editor in C!
+
+All the code and documentation files have been created under your scratch folder:
+
+Header definitions & shapes data model: 
+graphics.h
+Drawing algorithms (Bresenham's line & Midpoint circle): 
+graphics.c
+Interactive CLI loop: 
+main.c
+Please review the complete instructions on compiling, running, and using the editor in 
+walkthrough.md
+. You can also track the progress state in 
+task.md
+
+
+--->Give all three files in one code.
+3:07 PM, 6/9/2026
+
+
+Here is the entire program combined into a single C file. This makes it extremely easy to copy and paste into any simple online compiler (like OnlineGDB or replit) without managing multiple files.
+
+I have also saved this combined code file locally for you at 
+single_editor.c
+.
