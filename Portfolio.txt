@@ -1,0 +1,132 @@
+# Student Portfolio
+
+## Personal Information
+
+Name: Punya R K 
+SRN: R25EJ114
+Branch: Computer Science and Information technology
+Semester: 2nd Semester
+College: Reva University
+Academic Year: 2025-26
+
+---
+
+## Career Objective
+
+A passionate Computer Science student interested in software development, programming, and problem-solving. Seeking opportunities to improve technical skills through projects and practical learning experiences.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+* C
+* Python
+
+
+### Tools & Technologies
+
+* GitHub
+* GCC Compiler
+* Visual Studio Code
+* Jupyter Notebook
+
+### Areas of Interest
+
+* Software Development
+* Computer Graphics
+* Artificial Intelligence
+* Data Analysis
+
+---
+
+#Academic Projects
+
+### 1. 2D Graphics Editor in C
+
+Duration: June 2026
+
+#### Description
+
+Developed a menu-driven 2D Graphics Editor using the C programming language. The application allows users to create, edit, display, and manage graphical shapes.
+
+#### Features
+
+* Add shapes
+* Delete shapes
+* Move shapes
+* Resize shapes
+* Change colors
+* Display shape details
+* File handling support
+* Menu-driven interface
+
+#### Technologies Used
+
+* C Programming
+* Structures
+* Dynamic Memory Allocation
+* File Handling
+* Modular Programming
+
+#### Learning Outcomes
+
+* Improved understanding of structures and pointers.
+* Learned modular software development.
+* Gained experience with file operations in C.
+* Enhanced debugging and problem-solving skills.
+
+---
+
+## Academic Achievements
+
+* Successfully completed Mini Project on 2D Graphics Editor.
+* Mini Project on Tourism Data Analysis using python
+* Participated in laboratory programming assignments.
+* Built projects using Python and C.
+
+---
+
+## Strengths
+
+* Quick learner
+* Problem-solving mindset
+* Team collaboration
+* Adaptability
+* Time management
+
+---
+
+## Certifications
+
+* Python Programming Fundamentals
+* Data Analysis Basics
+
+---
+
+## Future Goals
+
+* Learn Data Structures and Algorithms.
+* Develop full-stack applications.
+* Explore Artificial Intelligence and Machine Learning.
+* Contribute to open-source projects.
+
+---
+
+## Contact
+
+Email: punyakandagal@gmail.com 
+GitHub: https://github.com/punyakandagal
+LinkedIn:https://www.linkedin.com/in/punya-r-k-770621384
+
+---
+
+### Declaration
+
+I hereby declare that the information provided above is true to the best of my knowledge and belief.
+
+Signature: Punya
+
+---
+
